@@ -113,8 +113,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author  
-### **Credit :** [Cat Fact](https://catfact.ninja)
+**Credit : for  API** &nbsp; &nbsp;[Cat Fact](https://catfact.ninja)
 
-**Shivranjan (5x30 PM)**  
-
-[GitHub](https://github.com/5x30pm)
+**Shivranjan (5x30 PM)** &nbsp; [GitHub](https://github.com/5x30pm)
